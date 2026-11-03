@@ -1,0 +1,6 @@
+name = "ashkadan-v6"
+compatibility_date = "2026-11-02"
+pages_build_output_dir = "./public"
+
+# Bind a free Cloudflare KV namespace in Pages > Settings > Functions > KV namespace bindings.
+# Binding name must be ASHKADAN_KV.

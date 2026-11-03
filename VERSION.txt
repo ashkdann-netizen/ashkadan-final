@@ -1,0 +1,5 @@
+ASHKADAN V6 - SELF-CONTAINED ASSET REBUILD
+Brand: Original user-provided Ashkadan logo preserved
+Images: Bundled local assets, no remote image hosts
+Portfolio/gallery: Removed
+Editor: Preset local image selection
